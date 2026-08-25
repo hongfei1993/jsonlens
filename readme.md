@@ -42,11 +42,7 @@ JSON Lens 是**纯前端工具**，所有数据仅在浏览器本地内存中解
 
 ## 🤝 反馈
 
-工具使用中有任何问题、建议，欢迎：
-
-- 在 [GitHub Issues]([https://github.com/](https://github.com/hongfei1993/jsonlens/issues)) 提 issue
-
-你的每条反馈都会看，工具会持续迭代。
+工具使用中有任何问题、建议，欢迎在 [GitHub Issues](https://github.com/hongfei1993/jsonlens/issues) 提 issue，每条都会看，工具会持续迭代。
 
 ---
 
