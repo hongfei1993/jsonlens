@@ -44,8 +44,7 @@ JSON Lens 是**纯前端工具**，所有数据仅在浏览器本地内存中解
 
 工具使用中有任何问题、建议，欢迎：
 
-- 在 [GitHub Issues](https://github.com/) 提 issue（仓库创建后替换此链接）
-- 或直接在 jsonlens.cn 页面留言
+- 在 [GitHub Issues]([https://github.com/](https://github.com/hongfei1993/jsonlens/issues)) 提 issue
 
 你的每条反馈都会看，工具会持续迭代。
 
