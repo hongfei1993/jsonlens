@@ -32,6 +32,14 @@ JSON Lens 是**纯前端工具**，所有数据仅在浏览器本地内存中解
 
 完整 18 篇教程见 [jsonlens.cn 指南区](https://jsonlens.cn/)。
 
+## 🌐 English Guides
+
+- [Fix "Unexpected end of JSON input" Error](https://jsonlens.cn/en/guide/unexpected-end-of-json-input/)
+- [Fix "Unexpected token < in JSON at position 0"](https://jsonlens.cn/en/guide/unexpected-token-in-json-at-position-0/)
+- [Convert a JSON Array to a Table](https://jsonlens.cn/en/guide/convert-json-array-to-table/)
+
+More guides at [jsonlens.cn/en](https://jsonlens.cn/en/).
+
 ## 🛠 技术栈
 
 | 部分   | 技术                       |
